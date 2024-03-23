@@ -24,7 +24,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
       <img src="https://www.crio.do/blog/content/images/2022/02/Sorting-Algorithms.png" width=400 />
   </a>
 
