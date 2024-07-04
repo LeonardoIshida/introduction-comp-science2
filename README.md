@@ -39,14 +39,14 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 Repository with all my projects for the univerisity subject introduction to computer science 2, that basically covered big O conceptions and sorting algorithms efficiency.<br>
 There are 2 sorting algorithms prjects and 1 about hash map.
 
 
 
-### Built With
+## ⚙️ Built With
 
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
